@@ -1,11 +1,11 @@
 const responses = [
     {
         text: "1",
-        image: "images/1.png"
+        image: "1.png"
     },
     {
         text: "2",
-        image: "images/2.png"
+        image: "2.png"
     },
 ];
 
